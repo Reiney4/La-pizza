@@ -44,6 +44,6 @@ flask db revision --autogenerate -m'Create tables owners, pets'
 Valerie Kandagor
 
 ###  Github
-'''bash
+
 https://github.com/Reiney4/La-pizza
-'''
+
