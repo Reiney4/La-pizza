@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-
-#!/usr/bin/env python3
-
 from flask import Flask, jsonify, request, make_response
 from flask_migrate import Migrate
 from flask_restful import Api, Resource
